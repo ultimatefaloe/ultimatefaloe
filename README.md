@@ -78,30 +78,6 @@ I thrive on creating products that blend **technical excellence** with **meaning
 
 ---
 
-## 💼 Professional Experience
-
-### 🎯 **Frontend Team Lead** | Accessivo
-*2025 – Present*
-- Leading frontend development team in building scalable vendor and customer dashboards using **Next.js** and **NestJS**
-- Bridging stakeholder requirements with technical execution, ensuring seamless delivery and high code quality
-
-### 🚚 **Full Stack Developer** | MeuDeliver
-*2024*
-- Developed a multi-role logistics platform handling Client, Vendor, Delivery, and Admin workflows
-- Built robust APIs supporting real-time order tracking and inventory management for **5K+ SKUs**
-
-### 🖨️ **Backend Developer** | 59 Minutes Print
-*2024*
-- Architected RESTful APIs for print-on-demand services with vendor onboarding and order automation
-- Implemented payment integrations and optimized database queries for improved response times
-
-### 💻 **Software Engineer** | Freelance
-*2023 – 2024*
-- Delivered full-stack solutions for clients across e-commerce, logistics, and agriculture sectors
-- Specialized in API development, cloud deployment, and performance optimization
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -155,7 +131,7 @@ Microservice-based architecture promoting modular API systems and scalable backe
 <td colspan="2">
 
 ### 🏢 [Ultimate IntelliForge Code](https://ultimatefaloe.vercel.app)
-My software development brand offering full-stack development, DevOps consulting, and cloud architecture solutions.
+My software development brand offers full-stack development, DevOps consulting, and cloud architecture solutions.
 
 **Services:** Custom Web Apps, API Development, Cloud Deployment, Technical Consulting
 
@@ -164,21 +140,6 @@ My software development brand offering full-stack development, DevOps consulting
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Provider | Year |
-|--------------|----------|------|
-| 🎓 **Meta Backend Developer Certificate** | Meta | 2024 |
-| 💻 **JavaScript Algorithms & Data Structures** | freeCodeCamp | 2023 |
-| ⚛️ **Front-End Development with React** | Coursera | 2023 |
-| ☁️ **AWS Cloud Foundations** | AWS | 2024 |
-
-</div>
 
 ---
 
