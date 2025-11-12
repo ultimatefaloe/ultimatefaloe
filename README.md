@@ -18,11 +18,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with strong expertise in **Node.js**, **NestJS**, and **Next.js**, building high-performance APIs and scalable web applications. Currently serving as **Frontend Team Lead at Accessivo**, where I bridge communication between stakeholders and developers, ensuring smooth task execution and high-quality delivery.
+I’m a passionate Full-Stack Developer who enjoys solving complex problems through clean architecture and scalable systems.
 
-I thrive on creating products that blend **technical excellence** with **meaningful user experiences**, focusing on performance, security, and maintainable architectures. From concept to deployment, I love turning ideas into production-ready solutions.
+My experience spans backend development with NestJS, Express.js, and PostgreSQL, and frontend engineering using React.js and Next.js. I’ve worked on projects across multi-role e-commerce systems, logistics platforms, and real-time applications, ensuring reliability, security, and smooth user experience.
 
-💡 *Building at* **Ultimate IntelliForge Code** – delivering full-stack and DevOps solutions that scale.
+Over time, I’ve built and deployed RESTful APIs, integrated CI/CD pipelines, and used tools like Docker, AWS, and Vercel to optimize performance and speed of delivery.
+
+💡 I love collaborating with dynamic teams, mentoring peers, and working in environments that value both engineering precision and creative problem-solving.
+
+I’m currently open to remote or relocation roles where I can contribute to impactful projects, continue learning, and grow within global teams.
 
 ---
 
