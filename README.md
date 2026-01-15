@@ -45,7 +45,7 @@ I’m currently open to remote or relocation roles where I can contribute to imp
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TanStack Query](https://img.shields.io/npm/v/@tanstack/react-query?label=TanStack%20Query)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
