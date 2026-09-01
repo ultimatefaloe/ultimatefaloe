@@ -153,8 +153,6 @@ I'm always interested in **building useful products, solving challenging enginee
   
 ### 💭 *"Code it simple, build it scalable, ship it reliable."*
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 **⭐️ From [ultimatefaloe](https://github.com/ultimatefaloe) | Built with ❤️ and lots of ☕**
 
 </div>
