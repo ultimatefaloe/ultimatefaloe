@@ -1,61 +1,70 @@
-# 👋 Hey, I'm Tunmise Falodun
+# 👋 Hey there! I'm Tunmise Falodun
 
-### 💻 Full-Stack Engineer · Backend-focused · Software Architecture
-
-I build **scalable web applications, backend systems, and digital products** with a focus on clean architecture, reliable APIs, and maintainable code.
-
-Currently **Frontend Team Lead at Accessivo**, working with a team to build and ship production software.
-
-📍 Nigeria · 🌍 Open to remote opportunities
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tunmise-falodun-1894b22a2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square\&logo=google-chrome\&logoColor=white)](https://ultimatefaloe.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ultimatefaloe@outlook.com)
-
----
-
-## 🧑‍💻 About Me
-
-I'm a software engineer who enjoys turning **ideas and business requirements into production-ready software**.
-
-My strongest area is **backend and full-stack engineering**, where I work across application architecture, API design, databases, authentication, integrations, and deployment.
-
-I also have a strong frontend background with **React and Next.js**, which allows me to work across the stack and understand how systems fit together from the user interface to the infrastructure.
-
-🚀 I enjoy building products, solving engineering problems, collaborating with teams, and continuously improving how software is designed and delivered.
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ultimatefaloe&color=blueviolet&style=flat-square&label=Profile+Views)
+  
+  **Full Stack Developer | Backend Engineer | DevOps Enthusiast**
+  
+  📍 Abuja, Nigeria | 💼 Frontend Team Lead @ Accessivo
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunmise-falodun-1894b22a2)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ultimatefaloe.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ultimatefaloe@outlook.com)
+  
+</div>
 
 ---
 
-## 🛠️ Technologies
+## 🚀 About Me
 
-**Languages & Runtime**
+I’m a passionate Full-Stack Developer who enjoys solving complex problems through clean architecture and scalable systems.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+My experience spans backend development with NestJS, Express.js, and PostgreSQL, and frontend engineering using React.js and Next.js. I’ve worked on projects across multi-role e-commerce systems, logistics platforms, and real-time applications, ensuring reliability, security, and smooth user experience.
 
-**Frontend**
+Over time, I’ve built and deployed RESTful APIs, integrated CI/CD pipelines, and used tools like Docker, AWS, and Vercel to optimize performance and speed of delivery.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square\&logo=tanstack\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+💡 I love collaborating with dynamic teams, mentoring peers, and working in environments that value both engineering precision and creative problem-solving.
 
-**Backend & Data**
+I’m currently open to remote or relocation roles where I can contribute to impactful projects, continue learning, and grow within global teams.
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+---
 
-**Infrastructure & Tools**
+## 🛠️ Tech Stack & Skills
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+<details open>
+<summary><b>Click to expand/collapse</b></summary>
+<br>
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
+
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-000000?style=for-the-badge&logo=docker&logoColor=white)
+
+### Soft Skills
+`Team Leadership` • `Communication` • `Project Management` • `Problem Solving` • `Mentorship`
+
+</details>
 
 ---
 
@@ -115,6 +124,7 @@ Multi-role logistics platform connecting customers, vendors, and delivery operat
 
 ---
 
+
 ## 📊 GitHub
 
 <div align="center">
@@ -137,8 +147,14 @@ I'm always interested in **building useful products, solving challenging enginee
 
 <br>
 
-<div align="center">
+---
 
-### ⚡ Build simple. Design well. Ship reliably.
+<div align="center">
+  
+### 💭 *"Code it simple, build it scalable, ship it reliable."*
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+**⭐️ From [ultimatefaloe](https://github.com/ultimatefaloe) | Built with ❤️ and lots of ☕**
 
 </div>
